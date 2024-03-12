@@ -4,7 +4,7 @@
 
 ### 1 Create a steady tone on the loudspeaker
 
-Connect a loudspeaker to a digital output pin.  Generate a 1 kHz tone on the loudspeaker using digitalWrite() and delayMicroseconds().
+Connect a loudspeaker to a digital output pin. Generate a 1 kHz tone on the loudspeaker using digitalWrite() and delayMicroseconds().
 
 ### 2 Use an input to control an output
 
